@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: #b2d600;
+  background: white;
 }
 
 .container {
@@ -182,7 +182,7 @@ main p {
 footer {
   color: black;
   background-image: linear-gradient(
-      rgb(178, 214, 20, 0.74),
+      #1b162eb4,
       rgb(178, 214, 20, 0.74)
     ),
     url("../images/cape town footer.png");
